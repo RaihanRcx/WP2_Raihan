@@ -18,6 +18,7 @@
  <h4>Olah Raga Favorit</h4>
  <ul type="square">
  <li>Musical</li>
- <li>Futsal dan Racing</li>
+ <li>Futsal</li>
+ <li>Racing</li>
  </ul>
 </section>
